@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ae3416-9583-46de-ae1d-37400e1669a0" name="Changes" comment="aaa">
-      <change afterPath="$PROJECT_DIR$/MultiProcessingQueue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_7_2021_12_41_AM_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="19ae3416-9583-46de-ae1d-37400e1669a0" name="Changes" comment="6 cmt">
+      <change afterPath="$PROJECT_DIR$/TwoDimensionalArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MultiProcessingQueue.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TwoDimensionalArray.py" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
@@ -44,7 +43,7 @@
     </force-push-targets>
   </component>
   <component name="RunManager">
-    <configuration name="MultiProcessingQueue" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="TwoDimensionalArray" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -56,7 +55,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiProcessingQueue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TwoDimensionalArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628612031454</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6 cmt">
+      <created>1629150385223</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629150385223</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +163,8 @@
     <MESSAGE value="my third commit" />
     <MESSAGE value="my fourth commit" />
     <MESSAGE value="my fifth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="my fifth commit" />
+    <MESSAGE value="6 cmt" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 cmt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
